@@ -1,8 +1,6 @@
 # Network Fundamentals – TryHackMe
 
-## 1. What is Networking
-
-## 1.1 What is the Internet
+## 1 What is the Internet
 
 ### What It Is
 
@@ -37,7 +35,7 @@ Defenders must:
 - Use firewalls and IDS/IPS.
 - Detect abnormal external connections.
 
-## 1.2 Identifying Devices on a Network
+## 2 Identifying Devices on a Network
 
 Devices use two main identifiers: IP address and MAC address.
 
@@ -116,7 +114,7 @@ Relevant sources:
 - ARP tables
 - Network monitoring tools
 
-## 1.3 Ping and ICMP
+## 3 Ping and ICMP
 
 ### What It Is
 
@@ -130,4 +128,3 @@ Command:
 
 ```bash
 ping <IP address or domain>
-## 2. Intro to LAN:

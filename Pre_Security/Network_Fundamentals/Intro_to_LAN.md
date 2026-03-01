@@ -1,6 +1,6 @@
 # Intro_to_LAN – TryHackMe
 
-## LAN Topologies
+## 1. LAN Topologies
 
 ### What is it:
     A Local Area Network (LAN) is a private, high-speed network that connects computers, servers, printers, and other devices within a limited physical area, such as a home, office, or building
@@ -10,7 +10,7 @@
     - Bus Topology: every device connected by the main cable to other device. When one device isn't runing devices will be connected normaly 
     - Ring Topology: devices are connected directly to each other to form a loop, meaning that there is little cabling required andless dependence on dedicated hardware such as within a star topology.
 
-## Hub vs Switch vs Router 
+## 2. Hub vs Switch vs Router 
 
 ### **Hub**:
 - Broadcasts traffic to all devices
@@ -25,7 +25,7 @@
 ### **Router**:
 - Sends traffic bettwen networks
 
-## Subnetting
+## 3 Subnetting
 
 ### What is it:
 
@@ -42,7 +42,7 @@ Subnetting is the process of dividing a large network into smaller logical netwo
 - Identify the host address
 - Identify the default gateway
 
-## Subnet Mask
+## 3.1 Subnet Mask
 
 A subnet mask defines how many bits belong to the network.
 
@@ -64,7 +64,7 @@ CIDR:      /24
 - /27 → 255.255.255.224
 - /28 → 255.255.255.240
 
-## ARP (Address Resolution Protocol)
+## 4. ARP (Address Resolution Protocol)
 
 ### What is it:
 
@@ -76,7 +76,7 @@ Each device within a network has a ledger to store information on, which is call
 - ARP REQUEST
 - ARP REPLY
 
-## DHCP (Dynamic Host Configuration Protocol)
+## 5. DHCP (Dynamic Host Configuration Protocol)
 
 ### What is it:
 
