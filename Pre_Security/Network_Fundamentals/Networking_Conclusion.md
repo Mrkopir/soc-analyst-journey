@@ -2,11 +2,19 @@
 
 ## Overview
 
-During the completion of the Networking Fundamentals course, I strengthened and validated my knowledge in networking concepts. I gained a clearer understanding of how networks operate — from basic communication principles to tunneling mechanisms.
+During the learning path, I also studied how HTTP requests and responses work. When a user interacts with a website, the browser sends an HTTP request to the server. The server processes the request and sends back an HTTP response containing the requested resource, such as an HTML page, image, or other content.
 
-The course covered core technologies and concepts including IP addressing, MAC addressing, TCP/IP, UDP, LAN architecture, the OSI model, VPN technologies, firewalls, packets and frames, hubs, switches, routers, subnetting and subnet masks, ARP, DHCP, and ICMP (ping).
+I also learned about different HTTP methods, which define what action should be performed. For example, GET is used to retrieve data from a server, POST is used to send data to the server, PUT is used to update resources, and DELETE is used to remove them.
 
-Additionally, I developed a solid understanding of how data is created, encapsulated into different protocol layers, transmitted across networks, and routed between systems.
+Another important concept is HTTP status codes, which indicate the result of a request. For example, 200 OK means the request was successful, 404 Not Found indicates that the requested resource does not exist, and 500 Internal Server Error means the server encountered an unexpected problem.
+
+I also explored HTTP headers, which provide additional information about requests and responses, such as content type, authentication data, or caching instructions. Closely related to this concept are cookies, which are small pieces of data stored in the user's browser and used for session management, authentication, and personalization.
+
+In addition to networking concepts, I also learned about HTML, which is the standard language used to structure web pages, and JavaScript, which allows websites to implement dynamic functionality and interactive features.
+
+Another important topic was Sensitive Data Exposure, which refers to situations where confidential information such as passwords, API keys, or personal data is not properly protected. Misconfigurations, weak encryption, or improper data handling may lead to data leaks.
+
+I also studied HTML Injection, a vulnerability where attackers can inject malicious HTML code into a webpage. This can manipulate how content is displayed and may lead to further attacks such as phishing or cross-site scripting.
 
 ## Technical Understanding
 
