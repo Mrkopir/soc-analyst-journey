@@ -28,7 +28,7 @@
 
 ### 2.1 Offensive tool:
     - gobuster: a software tool for brute forcing directories on web servers.
-### 2.2 Defensive Tools
+### 2.2 Defensive Tools:
     - There are many open-source databases out there, like **AbuseIPDB**, and **Cisco Talos Intelligence**, where you can perform a reputation and location check for the IP address. Most security analysts use these tools to help them with alert investigations.
 
 ## 3. My Practical Experience
