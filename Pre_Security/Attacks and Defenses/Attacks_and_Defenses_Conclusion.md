@@ -31,3 +31,65 @@ Together, these concepts form the foundation of modern cybersecurity practices a
 This learning path provided a comprehensive introduction to the fundamental principles of cybersecurity. Starting with the CIA Triad, I developed an understanding of the core goals of information security. I then explored cryptographic techniques used to protect data, offensive security methods used to identify weaknesses, and defensive strategies used to protect systems and respond to incidents.
 
 These concepts create a strong foundation for continuing deeper studies in cybersecurity, including areas such as security monitoring, incident response, penetration testing, and advanced defensive security operations.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+I’ve successfully completed the Security Fundamentals (Sec0) learning path on TryHackMe.
+
+
+
+This path helped me build a strong foundation in cybersecurity by covering several essential topics, including:
+
+
+
+- Introduction to Cyber Security  
+
+- Network Fundamentals  
+
+- How The Web Works  
+
+- Computer Fundamentals  
+
+- Operating Systems Basics  
+
+- Software Basics  
+
+- Attacks and Defenses  
+
+
+
+Throughout this learning path, I documented my progress by writing structured Markdown notes and reflections for each module. This helped me better understand the concepts and build a small personal knowledge base that I can revisit in the future.
+
+
+
+You can find all my notes and reflections in this repository:
+
+
+
+GitHub:  
+
+github.com/Mrkopir/soc-analyst-journey/tree/master/Pre_Security
+
+
+
+I’m continuing my cybersecurity journey with a focus on Blue Team / SOC Analyst skills, hands-on labs, and gaining deeper practical experience with security concepts.
+
+
+
+My next step is the Cyber Security 101 path, and I’m also planning to take the SEC0 certification exam.
+
+
+
+#cybersecurity #tryhackme #blueteam #socanalyst #infosec #learning
