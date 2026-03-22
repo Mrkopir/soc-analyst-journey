@@ -61,7 +61,6 @@ r - 4
 w - 3
 x - 1
 
-
 ## 5. Common Directories
 
 ### `/etc`
